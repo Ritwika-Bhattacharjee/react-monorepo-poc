@@ -5,13 +5,13 @@
 #### 1. Check yarn version, if not present use command: npm install yarn -g
 #### 2. Create a package.json file in the root folder 
 ##### Content of package.json
-{
-    "private":true,
-    "name":"mono-repo",
-    "workspaces": [
-        "packages/*"
-    ]
-}
+##### {
+#####    "private":true,
+#####    "name":"mono-repo",
+#####    "workspaces": [
+#####        "packages/*"
+#####    ]
+##### }
 #### 3.
 #### 4.
 #### 5. 
