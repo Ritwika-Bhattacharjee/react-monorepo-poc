@@ -24,4 +24,7 @@
 
 ### Steps to start
 
-#### 1. npm install in root folder
+#### 1. yarn install in root folder
+#### 2. cd packages/app1 --> npm start
+#### 3. cd packages/app2 --> npm start
+#### 4. cd packages/home --> npm start
